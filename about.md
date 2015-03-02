@@ -1,15 +1,11 @@
 ---
 layout: page
-title: About
+title: &Agrave; propos
 permalink: /about/
 ---
 
-Some information about you!
+Curiosit&eacute; et enthousiasme
 
-### More Information
+Vous pouvez &eacute;galement me trouver ici o&ugrave; ailleurs...
 
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+### Contactez moi par [mail](mailto:hello@dfreezed.me)
