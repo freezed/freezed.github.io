@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Installation de Debian GNU/Linux sur un MacMini Intel
+title: Installation de Debian sur un MacMini Intel
 ---
 
 ### Détail du hardware:
