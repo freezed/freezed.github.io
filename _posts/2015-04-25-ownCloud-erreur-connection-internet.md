@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Installation ownCloud sous Debian, erreur de connection internet
+title: ownCloud, erreur de connection internet
 ---
 
 ## Contexte
