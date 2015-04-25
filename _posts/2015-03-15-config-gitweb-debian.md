@@ -3,7 +3,7 @@ layout: post
 title: Configurer le paquet gitweb provenant du dépot Debian
 ---
 
-Pour visualiser via HTTP les projets [git](http://www.git-scm.com/) et leur état depuis leur serveur, il existe [gitweb](http://www.git-scm.com/book/fr/v1/Git-sur-le-serveur-GitWeb). La doc n'ayant pas préciser comment adapter la config après l'installation, voici où ça se passe:
+Pour visualiser via HTTP les projets [git](http://www.git-scm.com/) et leur état depuis le serveur, il existe [gitweb](http://www.git-scm.com/book/fr/v1/Git-sur-le-serveur-GitWeb). La doc n'ayant pas précisé comment adapter la config après l'installation, voici où ça se passe:
 
 Installer via aptitude
 
