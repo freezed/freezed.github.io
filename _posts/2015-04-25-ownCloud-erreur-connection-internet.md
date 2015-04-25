@@ -10,7 +10,7 @@ title: ownCloud, erreur de connection internet
 
 ## Problème
 
-Dans le menu d'administration du client web, la vérification de la configuration affiche l'erreur suivant:
+Dans le menu d'administration du client web, la vérification de la configuration affiche l'erreur suivante:
 
 	Ce serveur ne peut se connecter à internet. Cela signifie que certaines fonctionnalités, telles que le montage de supports de stockage distants, les notifications de mises à jour ou l'installation d'applications tierces ne fonctionneront pas. L'accès aux fichiers à distance, ainsi que les notifications par courriel ne fonctionneront pas non plus. Il est recommandé d'activer la connexion internet pour ce serveur si vous souhaitez disposer de l'ensemble des fonctionnalités offertes.
 	Veuillez vous référer au guide d'installation.
