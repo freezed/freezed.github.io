@@ -85,5 +85,10 @@ title: Installation de Debian sur un MacMini Intel
 
 Boot possible grace a [rEFInd](https://gist.github.com/EmmanuelKasper/9590327#file-efi-boot-on-lenovo-thinkcenter-m92z)
 
-(à suivre...)
+__Edit: du 10/6/15__
 
+[Debian Jessie](https://www.debian.org/releases/stable/) vient de sortir et supporte nativement le boot EFI.
+
+Il suffi donc d'ajouter le [firware B43](https://wireless.wiki.kernel.org/en/users/Drivers/b43#devicefirmware) et d'installer le [driver Nvidia](https://wiki.debian.org/NvidiaGraphicsDrivers#configure) pour que la machine soit utilisable.
+
+*FIXME* : avec le driver nvidia, les TTY ont disparu. Apparement, c'est un [problème classique](https://www.google.fr/search?q=tty+driver+nvidia+linux)... A priori, sur cette machine je devrais m'en passer.
