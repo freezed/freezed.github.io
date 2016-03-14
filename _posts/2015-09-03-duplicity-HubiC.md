@@ -52,10 +52,11 @@ title: Relier duplicity à une instance HubiC
 ## Ressources:
 
 * Tuto:
-	* [Utiliser HubiC comme espace de backup avec Duplicity](http://www.yvangodard.me/hubic-backup-duplicity-backend-pyrax/)(lien mort)
-	* [Utiliser Hubic comme backup pour Duplicity avec le backend pyrax](http://www.yvangodard.me/utiliser-hubic-comme-espace-de-backup-avec-duplicity/)(lien mort)
+	* [Utiliser HubiC comme espace de backup avec Duplicity](http://www.yvangodard.me/hubic-backup-duplicity-backend-pyrax/) (lien mort)
+	* [Utiliser Hubic comme backup pour Duplicity avec le backend pyrax](http://www.yvangodard.me/utiliser-hubic-comme-espace-de-backup-avec-duplicity/) (lien mort)
 	* [Backups dans le cloud hubic avec duplicity et rclone(rsync)](http://nogues.pro/blog/backup-hubic-duplicity-rsync.html)
 	* [Hubic and Duplicity](https://www.tiernanotoole.ie/2015/04/01/Duplicity_Hubic.html)
+	* [How-to backup your data on hubic using duplicity](http://www.monperrus.net/martin/backup-hubic)
 	* []()
 
 * Sources:
