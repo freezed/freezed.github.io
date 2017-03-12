@@ -17,7 +17,7 @@ avatar: https://avatars3.githubusercontent.com/u/4021401
 
 # Includes an icon in the footer for each username you enter
 footer-links:
-  email: hello@freezed.me
+  email: git@freezed.me
   github: freezed
   osm: Freezed
   wikipedia: Freezed
@@ -53,7 +53,7 @@ baseurl: ""
 # !! You don't need to change any of the configuration flags below !!
 #
 
-markdown: redcarpet
+markdown: kramdown
 highlighter: pygments
 permalink: /:title/
 
