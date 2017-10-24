@@ -1,5 +1,7 @@
 # Install Sketchup2017 via wine sur LMDE2
 
+Distro version
+
 ```
 ~ % cat /etc/linuxmint/info
 RELEASE=2
