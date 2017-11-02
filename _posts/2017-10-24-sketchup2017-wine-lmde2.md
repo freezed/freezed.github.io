@@ -69,6 +69,13 @@ The installer will prompt you for the file path to save sketchup and for some re
 
 `wine ~/sketchup/drive_c/Program Files/SketchUp/SketchUp 2017/SketchUp.exe`
 
+## Desktop/Menu link
+
+`env WINEPREFIX="/home/user/sketchup" wine /home/user/sketchup/drive_c/Program\ Files/SketchUp/SketchUp\ 2017/SketchUp.exe`
+
+## Icône
+
+`/home/user/.local/share/icons/hicolor/48x48/apps/6EBD_SketchUpIcon.0.png`
 _ _ _
 
 [1]: https://wiki.winehq.org/Debian "WineHQ - Installing WineHQ packages"
